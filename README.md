@@ -13,7 +13,10 @@ This guide covers tools that every student should know about.
 Each section is written by a different team member.
 
 ## VS Code
-<!-- [Team Member 1 Name] will write this section -->
+<!-- [david_laur]  ## 🧰 Development Environment
+
+I primarily use Visual Studio Code as my development environment for Python and AI projects. 
+I leverage extensions, integrated terminal, and Git support to streamline my workflow.-->
 
 ## Notion
 <!-- [Team Member 2 Name] will write this section -->
