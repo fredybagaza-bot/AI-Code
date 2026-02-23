@@ -1,6 +1,6 @@
 # Useful Tools for Students
 
-A collaborative guide by Bagaza fredy, davidlaur901@gmail.com.ai, Beverly ua.
+A collaborative guide by Bagaza fredy, davidlaur901@gmail.com, Beverly ua.
 
 ## Table of Contents
 - Introduction(#introduction)
