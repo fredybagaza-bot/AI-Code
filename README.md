@@ -18,4 +18,20 @@ I leverage extensions, integrated terminal, and Git support to streamline my wor
 <!-- [Team Member 2 Name] will write this section -->
 
 ## Canva
-<!-- [Team Member 3 Name] will write this section -->
+<!-- Canva is a popular online, user-friendly graphic design platform launched in 2013
+that allows users to create social media graphics, presentations, 
+posters, videos, and documents without needing advanced technical skills. 
+It features a vast library of templates, images, and AI tools for easy customization. 
+ will write this section
+ Why do people use Canva?
+Canva is browser-based graphic design software.
+ It's very user-friendly and can be used for a multitude of business and marketing purposes. 
+There are templates for social media tiles, business cards, presentations, posters, brochures, mugs(!).You name it.
+
+Why do people use Canva?
+Canva is browser-based graphic design software.
+ It's very user-friendly and can be used for a multitude of business and marketing purposes. 
+There are templates for social media tiles, business cards, presentations, posters, brochures, mugs(!).You name it.
+ 
+ -->
+ 
