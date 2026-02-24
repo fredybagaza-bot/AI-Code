@@ -19,21 +19,21 @@ I leverage extensions, integrated terminal, and Git support to streamline my wor
 <!-- [Team Member 2 Name] will write this section -->
 
 ### Canva
+## Introduction to canva 
 Canva is a popular online, user-friendly graphic design platform launched in 2013
 that allows users to create social media graphics, presentations, 
-posters, videos, and documents without needing advanced technical skills. 
-It features a vast library of templates, images, and AI tools for easy customization. 
- will write this section
- Why do people use Canva?
-Canva is browser-based graphic design software.
- It's very user-friendly and can be used for a multitude of business and marketing purposes. 
+posters, videos, and documents without needing advanced technical skills. It features a vast library of templates, images, and AI tools for easy customization. 
+
+## Why do people use Canva?
+Canva is browser-based graphic design software. It's very user-friendly and can be used for a multitude of business and marketing purposes. 
 There are templates for social media tiles, business cards, presentations, posters, brochures, mugs(!).You name it.
-What language is Canva?
+
+## What language is Canva?
 You can go with any programming language as Canva itself is built on a variety of languages. 
 From Java, Typescript, Python, PHP, Swift, and Scala, they use everything. 
 However, the first version was purely built on Vanilla Javascript which is a lightweight form of JavaScript.
 
-Key Usage Examples
+## Key Usage Examples
 Social Media: Creating Instagram posts, stories, YouTube thumbnails, and Facebook graphics.
 Business & Marketing: Designing presentations, logos, flyers, business cards, resumes, and brochures.
 Content Creation: Editing photos, producing quick videos, and creating infographics.
