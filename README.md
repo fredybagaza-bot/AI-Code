@@ -2,8 +2,9 @@
 (bagaza fredy, david Laur, juster )
 ### Table of Contents
 - Introduction
+- vscode 
 - ChartGBT
-- Notion
+- Canva 
   
 ## Introduction
 chartGBT Stands for Generative Pre-trained Transformer, a type of AI model trained on large amounts of text to generate human-like responses.
