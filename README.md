@@ -14,7 +14,7 @@ chartGBT Stands for Generative Pre-trained Transformer, a type of AI model train
 I primarily use Visual Studio Code as my deEvelopment environment for Python and AI projects. 
 I leverage extensions, integrated terminal, and Git support to streamline my workflow.--
 
-## Notion
+### Notion
 <!-- [Team Member 2 Name] will write this section -->
 
 ### Canva
