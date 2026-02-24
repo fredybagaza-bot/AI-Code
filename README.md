@@ -1,5 +1,5 @@
 ## Useful Tools for Students
-
+(bagaza fredy, david Laur, juster )
 ### Table of Contents
 - Introduction
 - ChartGBT
