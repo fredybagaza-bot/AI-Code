@@ -26,12 +26,5 @@ It features a vast library of templates, images, and AI tools for easy customiza
  Why do people use Canva?
 Canva is browser-based graphic design software.
  It's very user-friendly and can be used for a multitude of business and marketing purposes. 
-There are templates for social media tiles, business cards, presentations, posters, brochures, mugs(!).You name it.
-
-Why do people use Canva?
-Canva is browser-based graphic design software.
- It's very user-friendly and can be used for a multitude of business and marketing purposes. 
-There are templates for social media tiles, business cards, presentations, posters, brochures, mugs(!).You name it.
- 
- -->
+There are templates for social media tiles, business cards, presentations, posters, brochures, mugs(!).You name it. -->
  
