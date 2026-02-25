@@ -80,4 +80,4 @@ Turn rough ideas into structured content
 Translate and reformat information
 
 ## link
-http:/gemini.google.com
+http://gemini.google.com
