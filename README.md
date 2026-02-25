@@ -8,7 +8,7 @@ A collaborative guide by Juster, bagaza fredy, David Raul, beverly
 - Canva 
 - Gemini 
 
-## Introducti Stands for Generative juster Pre-trained Transformer, a type of AI model trained on large amounts of text to generate human-like responses
+##  Pre-trained Transformer, a type of AI model trained on large amounts of text to generate human-like responses
 ## ChatGBT for Juster 
 Why should student study ChatGPT 
 ChatGPT can help with:
