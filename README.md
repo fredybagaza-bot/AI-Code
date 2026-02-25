@@ -13,7 +13,6 @@ A collaborative guide by Juster, bagaza fredy, David Raul, beverly
 Why should student study ChatGPT 
 ChatGPT can help with:
 ✅ Answering questions,
-
 ✅ Writing emails, letters, and CVs,
 ✅ Coding (Python, HTML, JavaScript, etc.)
 ✅ Business planning and strategy
