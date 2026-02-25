@@ -6,13 +6,13 @@ A collaborative guide by Juster, bagaza fredy, David Raul, beverly
 
 ## Table of Contents
 - Introduction
-- ChatGBT by Juster 
-- Canva by fredy
-- Gemini by David 
+- ChatGBT 
+- Canva 
+- Gemini 
 
 ## Introduction
 ChatGBT Stands for Generative Pre-trained Transformer, a type of AI model trained on large amounts of text to generate human-like responses
-## ChatGBT
+## ChatGBT for Juster 
 Why should student study ChatGPT 
 ChatGPT can help with:
 ✅ Answering questions
@@ -31,7 +31,7 @@ open a folder and start
 ## useful links
 https://chatgbt.org/about#google
 
-### CANVA
+### CANVA for Fredy
 ## Introduction
 Canva is an online visual communications and graphic design platform launched in 2013.
 It is designed to be user-friendly, allowing non-designers to create professional-looking content like social media graphics,
@@ -47,15 +47,19 @@ There are templates for social media tiles, business cards, presentations, poste
 You can go with any programming language as Canva itself is built on a variety of languages. 
 From Java, Typescript, Python, PHP, Swift, and Scala, they use everything. 
 However, the first version was purely built on Vanilla Javascript which is a lightweight form of JavaScript.
+
 ## Key Usage Examples
 Social Media: Creating Instagram posts, stories, YouTube thumbnails, and Facebook graphics.
 Business & Marketing: Designing presentations, logos, flyers, business cards, resumes, and brochures.
 Content Creation: Editing photos, producing quick videos, and creating infographics.
 Documents & Printing: Designing resumes, reports, and custom printed products.
 
-### useful Link https://share.google/aimode/oUF8M3sRGGcZjGkSp
+### useful Link 
+This public link shares a thread, including any personal information you added.
+You can delete a public link at any time, but not copies made by others. 
+If you share with third parties, their policies apply.https://share.google/aimode/oUF8M3sRGGcZjGkSp
 
-### Gemini 
+### Gemini for David 
 ## introduction 
 A family of AI models developed by Google DeepMind.
 Designed for multimodal tasks (text, images, code, etc.).
