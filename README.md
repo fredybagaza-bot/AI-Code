@@ -56,7 +56,7 @@ Content Creation: Editing photos, producing quick videos, and creating infograph
 Documents & Printing: Designing resumes, reports, and custom printed products.
 
 ### Gemini 
-## introdutlction
+## introduction 
 A family of AI models developed by Google DeepMind.
 Designed for multimodal tasks (text, images, code, etc.).
 Powers various AI features across Google products.
