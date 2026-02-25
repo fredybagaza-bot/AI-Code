@@ -25,7 +25,6 @@ ChatGPT can help with:
 downlord from play store
 install the recommeded documents
 open a folder and start
-
 ## useful links
 https://chatgbt.org/about#google
 
@@ -35,16 +34,28 @@ Canva is an online visual communications and graphic design platform launched in
 It is designed to be user-friendly, allowing non-designers to create professional-looking content like social media graphics,
 presentations, posters, and videos using a drag-and-drop interface. It features a vast library of templates, images, and AI tools for easy customization. 
 It saves time, improves productivity, and helps individuals and businesses work smarter. Many companies now use AI tools like ChatGPT for customer service, marketing, coding, and decision-making.
+### Why Students Should Use It
+- It works on Windows, Mac, and Linux.
+- It supports almost every programming language.
+- It has a built-in terminal so you can run commands without leaving the editor.
+- Thousands of extensions add extra features like themes, linters, and AI assistance.
 
+### How to Get Started
+You can go with any programming language as Canva itself is built on a variety of languages. 
+From Java, Typescript, Python, PHP, Swift, and Scala, they use everything. 
+However, the first version was purely built on Vanilla Javascript which is a lightweight form of JavaScript.
+https://www.canva.com/templates
+
+### Useful Links
+This public link shares a thread, including any personal information you added.
+You can delete a public link at any time, but not copies made by others. 
+If you share with third parties, their policies apply.
+- apply.https://share.google/aimode/oUF8M3sRGGcZjGkSp
+- (https://www.canva.com/templates)
 ## Why do people use Canva?
 Canva is browser-based graphic design software.
  It's very user-friendly and can be used for a multitude of business and marketing purposes. 
 There are templates for social media tiles, business cards, presentations, posters, brochures, mugs(!).You name it.
-
-## What language is Canva?
-You can go with any programming language as Canva itself is built on a variety of languages. 
-From Java, Typescript, Python, PHP, Swift, and Scala, they use everything. 
-However, the first version was purely built on Vanilla Javascript which is a lightweight form of JavaScript.
 
 ## Key Usage Examples
 Social Media: Creating Instagram posts, stories, YouTube thumbnails, and Facebook graphics.
@@ -52,10 +63,6 @@ Business & Marketing: Designing presentations, logos, flyers, business cards, re
 Content Creation: Editing photos, producing quick videos, and creating infographics.
 Documents & Printing: Designing resumes, reports, and custom printed products.
 
-### useful Link 
-This public link shares a thread, including any personal information you added.
-You can delete a public link at any time, but not copies made by others. 
-If you share with third parties, their policies apply.https://share.google/aimode/oUF8M3sRGGcZjGkSp
 
 ### Gemini for David 
 ## introduction 
