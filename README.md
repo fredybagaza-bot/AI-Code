@@ -1,5 +1,3 @@
-
-
 # Useful Tools for Students
 
 A collaborative guide by Juster, bagaza fredy, David Raul, beverly
