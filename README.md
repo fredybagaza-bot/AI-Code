@@ -2,15 +2,15 @@
 
 # Useful Tools for Students
 
-A collaborative guide by .
+A collaborative guide by Juster, bagaza fredy, David Raul, beverly
 
 ## Table of Contents
 - Introduction
-- ChatGBT
-- Notion
+- ChatGBT by Juster 
+- Canva by fredy
+- Gemini by David 
 
 ## Introduction
-
 ChatGBT Stands for Generative Pre-trained Transformer, a type of AI model trained on large amounts of text to generate human-like responses
 ## ChatGBT
 Why should student study ChatGPT 
@@ -33,12 +33,10 @@ https://chatgbt.org/about#google
 
 ### CANVA
 ## Introduction
-Canva is a popular online, user-friendly graphic design platform launched in 2013
-that allows users to create social media graphics, presentations, 
-posters, videos, and documents without needing advanced technical skills. 
-It features a vast library of templates, images, and AI tools for easy customization. 
-It saves time, improves productivity, and helps individuals and businesses work smarter.
-Many companies now use AI tools like ChatGPT for customer service, marketing, coding, and decision-making.
+Canva is an online visual communications and graphic design platform launched in 2013.
+It is designed to be user-friendly, allowing non-designers to create professional-looking content like social media graphics,
+presentations, posters, and videos using a drag-and-drop interface. It features a vast library of templates, images, and AI tools for easy customization. 
+It saves time, improves productivity, and helps individuals and businesses work smarter. Many companies now use AI tools like ChatGPT for customer service, marketing, coding, and decision-making.
 
 ## Why do people use Canva?
 Canva is browser-based graphic design software.
@@ -54,6 +52,8 @@ Social Media: Creating Instagram posts, stories, YouTube thumbnails, and Faceboo
 Business & Marketing: Designing presentations, logos, flyers, business cards, resumes, and brochures.
 Content Creation: Editing photos, producing quick videos, and creating infographics.
 Documents & Printing: Designing resumes, reports, and custom printed products.
+
+### useful Link https://share.google/aimode/oUF8M3sRGGcZjGkSp
 
 ### Gemini 
 ## introduction 
